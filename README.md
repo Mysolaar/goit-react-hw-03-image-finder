@@ -1,4 +1,6 @@
-# A React application that provides an image search functionality using the API from a third-party service. The application contains several components such as Searchbar, ImageGallery, Loader, Button, and Modal, which are imported at the beginning of the code.
+# A React application that provides an image search functionality using the API from a third-party service. 
+
+Application contains several components such as Searchbar, ImageGallery, Loader, Button, and Modal, which are imported at the beginning of the code.
 
 The main functionality of the app is in the App component that manages the state of the application. It initializes the state with several properties like status, query, page, name, modalAlt, showModal, modalImg, and error. These properties help to keep track of the current state of the application.
 
